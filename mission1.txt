@@ -1,0 +1,7 @@
+2 1 2
+2 1 2
+0
+2 inbox outbox
+Take each block from the input sequence and put it into the output sequence
+Input: 1,2
+Output: 1,2

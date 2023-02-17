@@ -1,0 +1,43 @@
+42
+inbox
+copyto 0
+sub 0
+copyto 1
+inbox
+jumpifzero 39
+copyto 2
+copyfrom 0
+sub 0
+sub 2
+copyto 3
+copyfrom 2
+add 0
+copyto 2
+jumpifzero 21
+copyfrom 3
+add 0
+copyto 3
+jumpifzero 28
+jump 12
+copyfrom 3
+add 0
+copyto 3
+copyfrom 3
+copyto 2
+sub 2
+copyto 3
+copyfrom 2
+sub 0
+sub 0
+copyto 2
+jumpifzero 37
+copyfrom 3
+add 0
+copyto 3
+jump 28
+copyfrom 3
+add 0
+add 1
+copyto 1
+outbox
+jump 5

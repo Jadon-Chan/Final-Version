@@ -1,0 +1,41 @@
+40
+inbox
+copyto 0
+inbox
+copyto 1
+copyfrom 0
+sub 1
+outbox
+copyfrom 1
+sub 0
+outbox
+inbox
+copyto 0
+inbox
+copyto 1
+copyfrom 0
+sub 1
+outbox
+copyfrom 1
+sub 0
+outbox
+inbox
+copyto 0
+inbox
+copyto 1
+copyfrom 0
+sub 1
+outbox
+copyfrom 1
+sub 0
+outbox
+inbox
+copyto 0
+inbox
+copyto 1
+copyfrom 0
+sub 1
+outbox
+copyfrom 1
+sub 0
+outbox
